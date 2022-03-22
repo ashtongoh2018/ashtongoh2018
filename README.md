@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **an Ethereum on-chain NFT game @ Nested.ai as a Blockchain Engineer Intern**
 
-- 🌱 I’m currently learning **Rust (Solana), Haskell (Cardano) and MERN stack**
+- 🌱 I’m currently learning **Rust (Solana) and MERN stack**
 
 - ⚡ Fun fact **I love spicy food and riding motorbikes!**
 
